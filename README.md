@@ -1,4 +1,4 @@
-# Probability Distributions in Pythone
+# Probability Distributions in Python
 Dominic Koech - C026-01-1049/2021
 Isaac Kariuki - C026-01-0997/2021
 Alvin Kariuki - C026-01-1046/2021
